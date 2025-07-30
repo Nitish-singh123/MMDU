@@ -1,2 +1,3 @@
 # MMDU
-my first repo
+my first repo.<br>
+Author-Nitish Singh 
