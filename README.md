@@ -1,3 +1,3 @@
 # MMDU
 my first repo.<br>
-Author-Nitish Singh 
+Author-Nitish Singh (Maharshi)
